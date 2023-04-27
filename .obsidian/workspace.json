@@ -4,15 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "18ff5531fa9982e3",
+        "id": "379698a222f208ec",
         "type": "tabs",
         "children": [
           {
-            "id": "5f59af7cbaad475f",
+            "id": "762fbd207b92ba1e",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "AI Art.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "1be41ea26f748cd0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5bc6b788268a7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Art/Sunglasses Advertising; added only the shoes to see the full figure..md",
+                "mode": "preview",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "AI Art.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "AI Art.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "AI Art.md"
+              }
             }
           }
         ]
@@ -139,6 +165,16 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "5f59af7cbaad475f",
-  "lastOpenFiles": []
+  "active": "762fbd207b92ba1e",
+  "lastOpenFiles": [
+    "Art/Sunglasses Advertising; added only the shoes to see the full figure..md",
+    "AI Art.md",
+    "assets/161639-20230427-chrome.png",
+    "README.md",
+    "Creatives/sergio casciu.md",
+    "Art",
+    "Creatives/KnowingStop (知止).md",
+    "Creatives",
+    "assets"
+  ]
 }
